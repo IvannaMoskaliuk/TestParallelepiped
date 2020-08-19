@@ -1,3 +1,10 @@
+/*
+ * Classname Parallelepiped
+ *
+ * @version 10/08/2020
+ *
+ * @author Moskaliuk Ivanna KNUTE
+ */
 package mos;
 
 import java.util.logging.Logger;
@@ -6,6 +13,7 @@ public class Parallelepiped {
     private static final Logger LOGGER = Logger.getLogger(Parallelepiped.class.getName());
     private double lengthA, widthB, heightC;
 
+    // constructors
     public Parallelepiped() {
     }
 
@@ -15,6 +23,7 @@ public class Parallelepiped {
         this.heightC = heightC;
     }
 
+    // getters, setters
     public double getLengthA() {
         return lengthA;
     }

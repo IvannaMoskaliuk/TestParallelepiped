@@ -1,3 +1,10 @@
+/*
+ * Classname ParallelepipedTest
+ *
+ * @version 10/08/2020
+ *
+ * @author Moskaliuk Ivanna KNUTE
+ */
 package mos;
 
 import org.junit.Assert;
