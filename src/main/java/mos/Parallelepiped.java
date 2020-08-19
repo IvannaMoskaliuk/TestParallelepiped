@@ -14,6 +14,7 @@ public class Parallelepiped {
     private double lengthA, widthB, heightC;
 
     // constructors
+
     public Parallelepiped() {
     }
 
@@ -24,6 +25,7 @@ public class Parallelepiped {
     }
 
     // getters, setters
+
     public double getLengthA() {
         return lengthA;
     }

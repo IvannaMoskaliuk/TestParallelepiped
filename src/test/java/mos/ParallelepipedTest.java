@@ -5,6 +5,7 @@
  *
  * @author Moskaliuk Ivanna KNUTE
  */
+
 package mos;
 
 import org.junit.Assert;
